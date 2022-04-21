@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>testing on Universal</title>
-    <link>https://rjanssens.github.io/tags/testing/</link>
+    <link>https://rjanssens.github.io/onboarding/tags/testing/</link>
     <description>Recent content in testing on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2022 14:13:01 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/tags/testing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2022 14:13:01 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/onboarding/tags/testing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ArchUnit</title>
-      <link>https://rjanssens.github.io/standards/archunit/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/archunit/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/archunit/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/archunit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DBUnit</title>
-      <link>https://rjanssens.github.io/standards/dbunit/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/dbunit/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/dbunit/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/dbunit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jasmine</title>
-      <link>https://rjanssens.github.io/standards/jasmine/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/jasmine/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/jasmine/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/jasmine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JUnit</title>
-      <link>https://rjanssens.github.io/standards/junit/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/junit/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/junit/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/junit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mockito</title>
-      <link>https://rjanssens.github.io/standards/mockito/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/mockito/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/mockito/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/mockito/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protractor</title>
-      <link>https://rjanssens.github.io/standards/protractor/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/protractor/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/protractor/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/protractor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selenium</title>
-      <link>https://rjanssens.github.io/standards/selenium/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/selenium/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/selenium/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/selenium/</guid>
       <description></description>
     </item>
     

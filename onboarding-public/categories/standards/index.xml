@@ -2,503 +2,503 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>standards on Universal</title>
-    <link>https://rjanssens.github.io/categories/standards/</link>
+    <link>https://rjanssens.github.io/onboarding/categories/standards/</link>
     <description>Recent content in standards on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2022 14:13:01 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/categories/standards/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2022 14:13:01 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/onboarding/categories/standards/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Active Directory</title>
-      <link>https://rjanssens.github.io/standards/activedirectory/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/activedirectory/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/activedirectory/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/activedirectory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Angular</title>
-      <link>https://rjanssens.github.io/standards/angular/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/angular/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/angular/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/angular/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ArchUnit</title>
-      <link>https://rjanssens.github.io/standards/archunit/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/archunit/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/archunit/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/archunit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Axway API Gateway</title>
-      <link>https://rjanssens.github.io/standards/axway/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/axway/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/axway/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/axway/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Azure Container Registry (ACR)</title>
-      <link>https://rjanssens.github.io/standards/acr/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/acr/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/acr/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/acr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Azure Kubernetes Service (AKS)</title>
-      <link>https://rjanssens.github.io/standards/aks/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/aks/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/aks/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/aks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BaNG</title>
-      <link>https://rjanssens.github.io/standards/bang/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/bang/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/bang/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/bang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DatCFG</title>
-      <link>https://rjanssens.github.io/standards/datcfg/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/datcfg/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/datcfg/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/datcfg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DatENQ-Batch</title>
-      <link>https://rjanssens.github.io/standards/datenq/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/datenq/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/datenq/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/datenq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DB2</title>
-      <link>https://rjanssens.github.io/standards/db2/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/db2/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/db2/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/db2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DBUnit</title>
-      <link>https://rjanssens.github.io/standards/dbunit/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/dbunit/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/dbunit/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/dbunit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EHCache</title>
-      <link>https://rjanssens.github.io/standards/ehcache/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/ehcache/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/ehcache/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/ehcache/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elastic stack</title>
-      <link>https://rjanssens.github.io/standards/elastic/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/elastic/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/elastic/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/elastic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FAS</title>
-      <link>https://rjanssens.github.io/standards/fas/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/fas/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/fas/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/fas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flyway</title>
-      <link>https://rjanssens.github.io/standards/flyway/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/flyway/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/flyway/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/flyway/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GitLab</title>
-      <link>https://rjanssens.github.io/standards/gitlab/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/gitlab/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/gitlab/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/gitlab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Greenshift</title>
-      <link>https://rjanssens.github.io/standards/greenshift/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/greenshift/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/greenshift/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/greenshift/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Helm</title>
-      <link>https://rjanssens.github.io/standards/helm/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/helm/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/helm/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/helm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Helm (push)</title>
-      <link>https://rjanssens.github.io/standards/helm-push/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/helm-push/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/helm-push/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/helm-push/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IBM MQ</title>
-      <link>https://rjanssens.github.io/standards/ibmmq/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/ibmmq/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/ibmmq/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/ibmmq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intellij</title>
-      <link>https://rjanssens.github.io/standards/intellij/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/intellij/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/intellij/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/intellij/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Istio</title>
-      <link>https://rjanssens.github.io/standards/istio/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/istio/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/istio/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/istio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Istio (mTLS)</title>
-      <link>https://rjanssens.github.io/standards/istio-mtls/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/istio-mtls/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/istio-mtls/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/istio-mtls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jasmine</title>
-      <link>https://rjanssens.github.io/standards/jasmine/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/jasmine/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/jasmine/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/jasmine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java</title>
-      <link>https://rjanssens.github.io/standards/java/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/java/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/java/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java Server Faces (JSF)</title>
-      <link>https://rjanssens.github.io/standards/jsf/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/jsf/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/jsf/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/jsf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jenkins</title>
-      <link>https://rjanssens.github.io/standards/jenkins/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/jenkins/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/jenkins/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/jenkins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jira</title>
-      <link>https://rjanssens.github.io/standards/jira/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/jira/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/jira/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/jira/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kaniko</title>
-      <link>https://rjanssens.github.io/standards/kaniko/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/kaniko/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/kaniko/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/kaniko/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Key Vault</title>
-      <link>https://rjanssens.github.io/standards/keyvault/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/keyvault/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/keyvault/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/keyvault/</guid>
       <description></description>
     </item>
     
     <item>
       <title>KeyCloak</title>
-      <link>https://rjanssens.github.io/standards/keycloak/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/keycloak/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/keycloak/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/keycloak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kubernetes Cronjobs</title>
-      <link>https://rjanssens.github.io/standards/k8scronjob/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/k8scronjob/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/k8scronjob/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/k8scronjob/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Liberty (JEE)</title>
-      <link>https://rjanssens.github.io/standards/liberty/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/liberty/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/liberty/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/liberty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Liquibase</title>
-      <link>https://rjanssens.github.io/standards/liquibase/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/liquibase/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/liquibase/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/liquibase/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maven</title>
-      <link>https://rjanssens.github.io/standards/maven/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/maven/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/maven/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/maven/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mockito</title>
-      <link>https://rjanssens.github.io/standards/mockito/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/mockito/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/mockito/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/mockito/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nagios</title>
-      <link>https://rjanssens.github.io/standards/nagios/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/nagios/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/nagios/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/nagios/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nginx</title>
-      <link>https://rjanssens.github.io/standards/nginx/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/nginx/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/nginx/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/nginx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Container Initiative (OCI)</title>
-      <link>https://rjanssens.github.io/standards/oci/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/oci/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/oci/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/oci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Liberty</title>
-      <link>https://rjanssens.github.io/standards/openliberty/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/openliberty/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/openliberty/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/openliberty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OWASP Dependency Checker</title>
-      <link>https://rjanssens.github.io/standards/owasp/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/owasp/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/owasp/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/owasp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protractor</title>
-      <link>https://rjanssens.github.io/standards/protractor/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/protractor/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/protractor/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/protractor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Redis</title>
-      <link>https://rjanssens.github.io/standards/redis/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/redis/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/redis/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/redis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>REST</title>
-      <link>https://rjanssens.github.io/standards/rest/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/rest/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/rest/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/rest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selenium</title>
-      <link>https://rjanssens.github.io/standards/selenium/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/selenium/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/selenium/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/selenium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Service&#39;Now</title>
-      <link>https://rjanssens.github.io/standards/snow/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/snow/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/snow/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/snow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SLF4J/Logback</title>
-      <link>https://rjanssens.github.io/standards/slf4j/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/slf4j/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/slf4j/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/slf4j/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SOAP</title>
-      <link>https://rjanssens.github.io/standards/soap/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/soap/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/soap/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/soap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SonarQube</title>
-      <link>https://rjanssens.github.io/standards/sonarqube/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/sonarqube/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/sonarqube/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/sonarqube/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spring Boot</title>
-      <link>https://rjanssens.github.io/standards/spring-boot/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/spring-boot/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/spring-boot/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/spring-boot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spring Boot Actuator</title>
-      <link>https://rjanssens.github.io/standards/actuator/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/actuator/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/actuator/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/actuator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tomcat (Spring Boot)</title>
-      <link>https://rjanssens.github.io/standards/tomcat/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/tomcat/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/tomcat/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/tomcat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trivy</title>
-      <link>https://rjanssens.github.io/standards/trivy/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/trivy/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/trivy/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/trivy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Typescript</title>
-      <link>https://rjanssens.github.io/standards/typescript/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/typescript/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/typescript/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/typescript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WebSphere Application Server (JEE)</title>
-      <link>https://rjanssens.github.io/standards/was/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/was/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/was/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/was/</guid>
       <description></description>
     </item>
     

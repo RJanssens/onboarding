@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Universal</title>
-    <link>https://rjanssens.github.io/categories/</link>
+    <link>https://rjanssens.github.io/onboarding/categories/</link>
     <description>Recent content in Categories on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2022 16:24:04 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2022 16:24:04 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/onboarding/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>principles</title>
-      <link>https://rjanssens.github.io/categories/principles/</link>
+      <link>https://rjanssens.github.io/onboarding/categories/principles/</link>
       <pubDate>Wed, 20 Apr 2022 16:24:04 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/categories/principles/</guid>
+      <guid>https://rjanssens.github.io/onboarding/categories/principles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>standards</title>
-      <link>https://rjanssens.github.io/categories/standards/</link>
+      <link>https://rjanssens.github.io/onboarding/categories/standards/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/categories/standards/</guid>
+      <guid>https://rjanssens.github.io/onboarding/categories/standards/</guid>
       <description></description>
     </item>
     
     <item>
       <title>recipes</title>
-      <link>https://rjanssens.github.io/categories/recipes/</link>
+      <link>https://rjanssens.github.io/onboarding/categories/recipes/</link>
       <pubDate>Wed, 20 Apr 2022 12:48:06 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/categories/recipes/</guid>
+      <guid>https://rjanssens.github.io/onboarding/categories/recipes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>architecture</title>
-      <link>https://rjanssens.github.io/categories/architecture/</link>
+      <link>https://rjanssens.github.io/onboarding/categories/architecture/</link>
       <pubDate>Tue, 19 Apr 2022 11:04:24 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/categories/architecture/</guid>
+      <guid>https://rjanssens.github.io/onboarding/categories/architecture/</guid>
       <description></description>
     </item>
     

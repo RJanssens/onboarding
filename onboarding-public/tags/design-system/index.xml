@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>design system on Universal</title>
-    <link>https://rjanssens.github.io/tags/design-system/</link>
+    <link>https://rjanssens.github.io/onboarding/tags/design-system/</link>
     <description>Recent content in design system on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2022 14:13:01 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/tags/design-system/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2022 14:13:01 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/onboarding/tags/design-system/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BaNG</title>
-      <link>https://rjanssens.github.io/standards/bang/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/bang/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/bang/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/bang/</guid>
       <description></description>
     </item>
     

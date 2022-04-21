@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>security on Universal</title>
-    <link>https://rjanssens.github.io/tags/security/</link>
+    <link>https://rjanssens.github.io/onboarding/tags/security/</link>
     <description>Recent content in security on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2022 14:13:01 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2022 14:13:01 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/onboarding/tags/security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Active Directory</title>
-      <link>https://rjanssens.github.io/standards/activedirectory/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/activedirectory/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/activedirectory/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/activedirectory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Axway API Gateway</title>
-      <link>https://rjanssens.github.io/standards/axway/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/axway/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/axway/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/axway/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FAS</title>
-      <link>https://rjanssens.github.io/standards/fas/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/fas/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/fas/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/fas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Istio (mTLS)</title>
-      <link>https://rjanssens.github.io/standards/istio-mtls/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/istio-mtls/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/istio-mtls/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/istio-mtls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>KeyCloak</title>
-      <link>https://rjanssens.github.io/standards/keycloak/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/keycloak/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/keycloak/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/keycloak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OWASP Dependency Checker</title>
-      <link>https://rjanssens.github.io/standards/owasp/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/owasp/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/owasp/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/owasp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SonarQube</title>
-      <link>https://rjanssens.github.io/standards/sonarqube/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/sonarqube/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/sonarqube/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/sonarqube/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trivy</title>
-      <link>https://rjanssens.github.io/standards/trivy/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/trivy/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/trivy/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/trivy/</guid>
       <description></description>
     </item>
     
