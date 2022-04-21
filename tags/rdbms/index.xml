@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RDBMS on Universal</title>
-    <link>https://rjanssens.github.io/tags/rdbms/</link>
+    <link>https://rjanssens.github.io/onboarding/tags/rdbms/</link>
     <description>Recent content in RDBMS on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2022 14:13:01 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/tags/rdbms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2022 14:13:01 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/onboarding/tags/rdbms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DB2</title>
-      <link>https://rjanssens.github.io/standards/db2/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/db2/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/db2/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/db2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DBUnit</title>
-      <link>https://rjanssens.github.io/standards/dbunit/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/dbunit/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/dbunit/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/dbunit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flyway</title>
-      <link>https://rjanssens.github.io/standards/flyway/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/flyway/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/flyway/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/flyway/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Liquibase</title>
-      <link>https://rjanssens.github.io/standards/liquibase/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/liquibase/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/liquibase/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/liquibase/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Container Initiative (OCI)</title>
-      <link>https://rjanssens.github.io/standards/oci/</link>
+      <link>https://rjanssens.github.io/onboarding/standards/oci/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/standards/oci/</guid>
+      <guid>https://rjanssens.github.io/onboarding/standards/oci/</guid>
       <description></description>
     </item>
     
