@@ -1,0 +1,21 @@
+---
+title: Optionality
+id: "PRI-A-003"
+layout: principle-details
+categories: "Application"
+pageType: "Principle"
+date: 2022-04-20T16:23:17+02:00
+draft: true
+statement: |
+  Although we wish to avoid reinventing the wheel (Cf. principle “Reuse before buy before build”), the introducton of third-party components and libraries brings with it the risk of vendor-lock.<br/>
+  When selecting candidate technologies to solve a problem, strive to avoid solutions which are tied to a single vendor.<br/>
+  Optionality is most important in domains with high risk & uncertainty (e.g. emerging technology).
+rationale: |
+  - We wish to avoid continuity problems in case a vendor goes under or no longer actively maintains a product.<br/>
+  - Dependency on a single vendor for a solution is a kind of organizational tight coupling, placing the vendor in a position of strength when it comes to pricing.
+implications: |
+  - Avoid vendor-specific solutions & embrace <b>open standards</b> where possible. An example would be cloud databases: each vendor offers managed database solutions (e.g. 'Postgres as a service') as well as vendor-specific solutions (AWS DynamoDB, Azure Table Storage etc.). While these may bring additional benefits to the table, they also limit solutions to that cloud vendor’s ecosystem.<br/>
+  - Where vendor-specific solutions are unavoidable, decouple from the solution via integration points providing an <b>abstraction layer</b> between the system being developed and the vendor system.
+categories: ["principles"]
+---
+

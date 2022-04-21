@@ -1,0 +1,11 @@
+weight: 2
+title: "Standards & Principles"
+description: >
+  <ul class="list-style-none">
+    <li>Coding standards</li>
+    <li>Semantic versioning</li>
+    <li>Branching strategy</li>
+    <li>Architecture principles</li>
+  </ul>
+image: "img/carousel/template-easy-customize.png"
+href: "/standards/overview"
