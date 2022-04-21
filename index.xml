@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Universal</title>
+    <link>https://devcows.github.io/</link>
+    <description>Recent content on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2022 16:24:04 +0200</lastBuildDate><atom:link href="https://devcows.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Architect for build, test, deploy, and operate</title>
+      <link>https://devcows.github.io/principles/pri-t-005/</link>
+      <pubDate>Wed, 20 Apr 2022 16:24:04 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/principles/pri-t-005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defense in depth</title>
+      <link>https://devcows.github.io/principles/pri-t-004/</link>
+      <pubDate>Wed, 20 Apr 2022 16:24:03 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/principles/pri-t-004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security by design</title>
+      <link>https://devcows.github.io/principles/pri-t-003/</link>
+      <pubDate>Wed, 20 Apr 2022 16:24:00 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/principles/pri-t-003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interoperability</title>
+      <link>https://devcows.github.io/principles/pri-t-002/</link>
+      <pubDate>Wed, 20 Apr 2022 16:23:57 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/principles/pri-t-002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control Technical Diversity</title>
+      <link>https://devcows.github.io/principles/pri-t-001/</link>
+      <pubDate>Wed, 20 Apr 2022 16:23:55 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/principles/pri-t-001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Common Vocabulary and Data Definitions</title>
+      <link>https://devcows.github.io/principles/pri-d-003/</link>
+      <pubDate>Wed, 20 Apr 2022 16:23:49 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/principles/pri-d-003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>API First</title>
+      <link>https://devcows.github.io/principles/pri-d-002/</link>
+      <pubDate>Wed, 20 Apr 2022 16:23:47 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/principles/pri-d-002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single source of truth</title>
+      <link>https://devcows.github.io/principles/pri-d-001/</link>
+      <pubDate>Wed, 20 Apr 2022 16:23:44 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/principles/pri-d-001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team-owned architecture</title>
+      <link>https://devcows.github.io/principles/pri-b-007/</link>
+      <pubDate>Wed, 20 Apr 2022 16:23:40 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/principles/pri-b-007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keep it short &amp; simple (KISS)</title>
+      <link>https://devcows.github.io/principles/pri-b-006/</link>
+      <pubDate>Wed, 20 Apr 2022 16:23:37 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/principles/pri-b-006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous architecture</title>
+      <link>https://devcows.github.io/principles/pri-b-005/</link>
+      <pubDate>Wed, 20 Apr 2022 16:23:35 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/principles/pri-b-005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generic building blocks</title>
+      <link>https://devcows.github.io/principles/pri-b-004/</link>
+      <pubDate>Wed, 20 Apr 2022 16:23:33 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/principles/pri-b-004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decentralize</title>
+      <link>https://devcows.github.io/principles/pri-b-003/</link>
+      <pubDate>Wed, 20 Apr 2022 16:23:30 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/principles/pri-b-003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Culture of automation</title>
+      <link>https://devcows.github.io/principles/pri-b-002/</link>
+      <pubDate>Wed, 20 Apr 2022 16:23:27 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/principles/pri-b-002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficiency</title>
+      <link>https://devcows.github.io/principles/pri-b-001/</link>
+      <pubDate>Wed, 20 Apr 2022 16:23:26 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/principles/pri-b-001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optionality</title>
+      <link>https://devcows.github.io/principles/pri-a-003/</link>
+      <pubDate>Wed, 20 Apr 2022 16:23:17 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/principles/pri-a-003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reuse before Buy before Build</title>
+      <link>https://devcows.github.io/principles/pri-a-002/</link>
+      <pubDate>Wed, 20 Apr 2022 16:23:16 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/principles/pri-a-002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single concern</title>
+      <link>https://devcows.github.io/principles/pri-a-004/</link>
+      <pubDate>Wed, 20 Apr 2022 16:08:16 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/principles/pri-a-004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology independence</title>
+      <link>https://devcows.github.io/principles/pri-a-001/</link>
+      <pubDate>Wed, 20 Apr 2022 16:08:16 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/principles/pri-a-001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Directory</title>
+      <link>https://devcows.github.io/standards/activedirectory/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/activedirectory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angular</title>
+      <link>https://devcows.github.io/standards/angular/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/angular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ArchUnit</title>
+      <link>https://devcows.github.io/standards/archunit/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/archunit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Axway API Gateway</title>
+      <link>https://devcows.github.io/standards/axway/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/axway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Container Registry (ACR)</title>
+      <link>https://devcows.github.io/standards/acr/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/acr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Kubernetes Service (AKS)</title>
+      <link>https://devcows.github.io/standards/aks/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/aks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BaNG</title>
+      <link>https://devcows.github.io/standards/bang/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/bang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DatCFG</title>
+      <link>https://devcows.github.io/standards/datcfg/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/datcfg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DatENQ-Batch</title>
+      <link>https://devcows.github.io/standards/datenq/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/datenq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DB2</title>
+      <link>https://devcows.github.io/standards/db2/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/db2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DBUnit</title>
+      <link>https://devcows.github.io/standards/dbunit/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/dbunit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EHCache</title>
+      <link>https://devcows.github.io/standards/ehcache/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/ehcache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elastic stack</title>
+      <link>https://devcows.github.io/standards/elastic/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/elastic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAS</title>
+      <link>https://devcows.github.io/standards/fas/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/fas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flyway</title>
+      <link>https://devcows.github.io/standards/flyway/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/flyway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitLab</title>
+      <link>https://devcows.github.io/standards/gitlab/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/gitlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greenshift</title>
+      <link>https://devcows.github.io/standards/greenshift/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/greenshift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helm</title>
+      <link>https://devcows.github.io/standards/helm/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/helm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helm (push)</title>
+      <link>https://devcows.github.io/standards/helm-push/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/helm-push/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IBM MQ</title>
+      <link>https://devcows.github.io/standards/ibmmq/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/ibmmq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intellij</title>
+      <link>https://devcows.github.io/standards/intellij/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/intellij/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Istio</title>
+      <link>https://devcows.github.io/standards/istio/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/istio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Istio (mTLS)</title>
+      <link>https://devcows.github.io/standards/istio-mtls/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/istio-mtls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jasmine</title>
+      <link>https://devcows.github.io/standards/jasmine/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/jasmine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://devcows.github.io/standards/java/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java Server Faces (JSF)</title>
+      <link>https://devcows.github.io/standards/jsf/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/jsf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jenkins</title>
+      <link>https://devcows.github.io/standards/jenkins/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/jenkins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jira</title>
+      <link>https://devcows.github.io/standards/jira/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/jira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JUnit</title>
+      <link>https://devcows.github.io/standards/junit/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/junit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaniko</title>
+      <link>https://devcows.github.io/standards/kaniko/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/kaniko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Key Vault</title>
+      <link>https://devcows.github.io/standards/keyvault/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/keyvault/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KeyCloak</title>
+      <link>https://devcows.github.io/standards/keycloak/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/keycloak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Cronjobs</title>
+      <link>https://devcows.github.io/standards/k8scronjob/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/k8scronjob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liberty (JEE)</title>
+      <link>https://devcows.github.io/standards/liberty/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/liberty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liquibase</title>
+      <link>https://devcows.github.io/standards/liquibase/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/liquibase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven</title>
+      <link>https://devcows.github.io/standards/maven/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/maven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mockito</title>
+      <link>https://devcows.github.io/standards/mockito/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/mockito/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nagios</title>
+      <link>https://devcows.github.io/standards/nagios/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/nagios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nexus</title>
+      <link>https://devcows.github.io/standards/nexus/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/nexus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nginx</title>
+      <link>https://devcows.github.io/standards/nginx/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Container Initiative (OCI)</title>
+      <link>https://devcows.github.io/standards/oci/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/oci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Liberty</title>
+      <link>https://devcows.github.io/standards/openliberty/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/openliberty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OWASP Dependency Checker</title>
+      <link>https://devcows.github.io/standards/owasp/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/owasp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protractor</title>
+      <link>https://devcows.github.io/standards/protractor/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/protractor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redis</title>
+      <link>https://devcows.github.io/standards/redis/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/redis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REST</title>
+      <link>https://devcows.github.io/standards/rest/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/rest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selenium</title>
+      <link>https://devcows.github.io/standards/selenium/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/selenium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service&#39;Now</title>
+      <link>https://devcows.github.io/standards/snow/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/snow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SLF4J/Logback</title>
+      <link>https://devcows.github.io/standards/slf4j/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/slf4j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOAP</title>
+      <link>https://devcows.github.io/standards/soap/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/soap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SonarQube</title>
+      <link>https://devcows.github.io/standards/sonarqube/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/sonarqube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring Boot</title>
+      <link>https://devcows.github.io/standards/spring-boot/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/spring-boot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring Boot Actuator</title>
+      <link>https://devcows.github.io/standards/actuator/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/actuator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomcat (Spring Boot)</title>
+      <link>https://devcows.github.io/standards/tomcat/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/tomcat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trivy</title>
+      <link>https://devcows.github.io/standards/trivy/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/trivy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typescript</title>
+      <link>https://devcows.github.io/standards/typescript/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/typescript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WebSphere Application Server (JEE)</title>
+      <link>https://devcows.github.io/standards/was/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/was/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to create and publish new recipes</title>
+      <link>https://devcows.github.io/recipes/recipe-001/</link>
+      <pubDate>Wed, 20 Apr 2022 12:48:06 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/recipes/recipe-001/</guid>
+      <description>How to create and publish new recipes</description>
+    </item>
+    
+    <item>
+      <title>Recipes</title>
+      <link>https://devcows.github.io/code/recipes/</link>
+      <pubDate>Wed, 20 Apr 2022 12:18:21 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/code/recipes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application Principles</title>
+      <link>https://devcows.github.io/principles/application/</link>
+      <pubDate>Tue, 19 Apr 2022 13:48:12 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/principles/application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business Principles</title>
+      <link>https://devcows.github.io/principles/business/</link>
+      <pubDate>Tue, 19 Apr 2022 13:48:12 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/principles/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Principles</title>
+      <link>https://devcows.github.io/principles/data/</link>
+      <pubDate>Tue, 19 Apr 2022 13:48:12 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/principles/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology Infrastructure Principles</title>
+      <link>https://devcows.github.io/principles/infrastructure/</link>
+      <pubDate>Tue, 19 Apr 2022 13:48:12 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/principles/infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>https://devcows.github.io/technology/overview/</link>
+      <pubDate>Tue, 19 Apr 2022 11:15:54 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/technology/overview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>https://devcows.github.io/deployment/overview/</link>
+      <pubDate>Tue, 19 Apr 2022 11:14:57 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/deployment/overview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Standards Overview</title>
+      <link>https://devcows.github.io/standards/overview/</link>
+      <pubDate>Tue, 19 Apr 2022 11:14:29 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/overview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>https://devcows.github.io/toolchain/overview/</link>
+      <pubDate>Tue, 19 Apr 2022 11:11:22 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/toolchain/overview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>https://devcows.github.io/code/overview/</link>
+      <pubDate>Tue, 19 Apr 2022 11:10:59 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/code/overview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>https://devcows.github.io/buildingblocks/overview/</link>
+      <pubDate>Tue, 19 Apr 2022 11:10:36 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/buildingblocks/overview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Update management</title>
+      <link>https://devcows.github.io/stacks/versionmgt/</link>
+      <pubDate>Tue, 19 Apr 2022 11:09:59 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/stacks/versionmgt/</guid>
+      <description>Introduction It&amp;rsquo;s important to ensure that your application runs on a current environment. When you deliver an application, you potentially provide an operating system, runtime, frameworks and libraries.
+Over time, software vulnerabilities &amp;amp; bugs are discovered and fixed these products. Malicious actors can take advantage of published patches by writing code to target the corrected vulnerabilities. For this reason, it is important to patch early and patch often.
+Why not explicitly specify which versions to use?</description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>https://devcows.github.io/stacks/overview/</link>
+      <pubDate>Tue, 19 Apr 2022 11:06:34 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/stacks/overview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>https://devcows.github.io/principles/overview/</link>
+      <pubDate>Tue, 19 Apr 2022 11:04:24 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/principles/overview/</guid>
+      <description>What are principles? Principles are general rules and guidelines, intended to be enduring and seldom amended, that inform and support the way in which an organization sets about fulfilling its mission.
+In their turn, principles may be just one element in a structured set of ideas that collectively define and guide the organization, from values through to actions and results.
+Depending on the organization, principles may be established within different domains and at different levels.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://devcows.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devcows.github.io/contact/</guid>
+      <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+Please feel free to contact us, our customer service center is working for you 24/7.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://devcows.github.io/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devcows.github.io/faq/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+    </item>
+    
+  </channel>
+</rss>

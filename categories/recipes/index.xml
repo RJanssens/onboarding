@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>recipes on Universal</title>
+    <link>https://devcows.github.io/categories/recipes/</link>
+    <description>Recent content in recipes on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2022 12:48:06 +0200</lastBuildDate><atom:link href="https://devcows.github.io/categories/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to create and publish new recipes</title>
+      <link>https://devcows.github.io/recipes/recipe-001/</link>
+      <pubDate>Wed, 20 Apr 2022 12:48:06 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/recipes/recipe-001/</guid>
+      <description>How to create and publish new recipes</description>
+    </item>
+    
+  </channel>
+</rss>
