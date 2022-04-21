@@ -1,0 +1,17 @@
+---
+id: "PRI-B-005"
+category: Business
+title: Continuous architecture
+statement: |
+ Architecture is an ongoing activity. Systems should keep evolving after initial delivery to support organizational change and technological disruption.
+rationale: |
+  Dead, rigid IT systems bring the organization to a standstill and are unable to support business disruption.
+implications: |
+  Treat systems as products rather than projects. Architecture activities stop when the product is decommissioned, not with production go-live.
+categories: ["principles"]
+layout: principle-details
+pageType: "Principle"
+date: 2022-04-20T16:23:35+02:00
+draft: true
+---
+

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+  </head>
+
+  <body>
+
+    <div id="all">
+
+        {{ partial "nav.html" . }}
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+            <div class="container">
+                <div class="row">
+                    <!-- *** LEFT COLUMN *** -->
+                    <div class="col-md-9" id="blog-listing-medium">
+
+						<h1>Standards</h1>	
+						<h2>Overview</h2>
+						<table class="styled-table">
+							<thead>
+								<tr>
+
+									<th>Standard</th>								
+									<th>Domain</th>
+									<th>Layer</th>
+									<th>Status</th>
+								</tr>
+							</thead>
+							<tbody>
+							{{ range sort .Site.RegularPages ".Params.categoryId" }} 
+							{{ if (and (isset .Params "category") (isset .Params "status")) }}
+							  <tr>
+								  <td><a href="{{.RelPermalink}}">{{.Title}}</a></td>							  
+								  <td>{{.Params.domain}}</td>
+								  <td>{{.Params.category}}</td>								  
+								  <td>{{.Params.status}}</td>								  
+							  </tr>
+							{{ end }}
+							{{ end }}
+							</tbody>
+						</table>
+						
+                    </div>
+                    <!-- /.col-md-9 -->
+
+                    <!-- *** LEFT COLUMN END *** -->
+
+                    <!-- *** RIGHT COLUMN ***
+       _________________________________________________________ -->
+
+                    <div class="col-md-3">
+
+                        <!-- *** MENUS AND WIDGETS *** -->
+
+                        {{ partial "sidebar.html" . }}
+
+                        <!-- *** MENUS AND FILTERS END *** -->
+
+                    </div>
+                    <!-- /.col-md-3 -->
+
+                    <!-- *** RIGHT COLUMN END *** -->
+
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

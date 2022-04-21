@@ -1,0 +1,14 @@
+weight: 4
+id: "PRI-D-003"
+category: Data
+title: Common Vocabulary and Data Definitions
+statement: |
+  Data is defined consistently throughout the enterprise, and the definitions are understandable and available to all users.
+rationale: |
+  The data that will be used in the development of applications must have a common definition throughout the organizationto enable sharing of data. <br/>
+  A common vocabulary will facilitate communications and enable dialog to be effective. In addition, it is required to interface systems and exchange data.
+implications: |
+  - The organization must establish the initial common vocabulary for the business; the definitions will be used uniformly throughout the organization.<br/>
+  - Whenever a new data definition is required, the definition effort will be co-ordinated and reconciled with the corporate "glossary" of data descriptions.<br/>
+  - Ambiguities resulting from multiple parochial definitions of data must give way to accepted organization-wide definitions and understanding.<br/>
+  - Functional data administration responsibilities must be assigned

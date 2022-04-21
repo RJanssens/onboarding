@@ -1,0 +1,19 @@
+---
+id: "PRI-D-001"
+category: Data
+title: Single source of truth
+statement: |
+  Information should have a single source of truth (“authentic source”). This is a platform that is accessed by all other information systems needing access to that data. 
+rationale: |
+  - When data is centralized in a single source of truth, consumers are confident they are using the definitive, up-to-date version of the data. <br/>
+  - By using a single source of truth, we avoid duplicate data entries & versioning issues.
+implications: |
+  - Note that this principle does not state: “all data must be store in <b>one centralized</b> platform serving as single source of truth (SSOT)” but rather “all data needs to be attributable to a source location acting as SSOT.”<br/>
+  - Systems are allowed to replicate information in local caches for performance reasons, but they should be aware of the risks and avoid sharing cached data outside their borders.
+categories: ["principles"]
+layout: principle-details
+pageType: "Principle"
+date: 2022-04-20T16:23:44+02:00
+draft: true
+---
+

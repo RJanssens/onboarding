@@ -1,0 +1,10 @@
+weight: 4
+id: "PRI-A-002"
+category: Application
+title: Reuse before Buy before Build
+statement: |
+  Re-use and integrate existing applications and solutions defined as target architecture before investing in new solutions. Use Commercial Off-the-Shelf (COTS) and Government Off-The-Shelf (GOTS) before building software.
+rationale: |
+  Our goal is to reduce project cost & duration. Bespoke development tends to be more expensive and developer availability is a bottleneck.
+implications: |
+  - Before development, assess potential for reuse of generic building blocks and content from other applications.

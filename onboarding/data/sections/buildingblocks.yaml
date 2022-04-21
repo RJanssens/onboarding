@@ -1,0 +1,9 @@
+weight: 4
+title: "Reusable building blocks"
+description: >
+  <ul class="list-style-none">
+     <li>Electronic Signature Service</li>
+     <li>Angular Design System (BaNG)</li>
+   </ul>
+image: "img/carousel/template-mac.png"
+href: "/buildingblocks/overview"

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>API Gateway on Universal</title>
+    <link>https://rjanssens.github.io/onboarding/tags/api-gateway/</link>
+    <description>Recent content in API Gateway on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2022 14:13:01 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/onboarding/tags/api-gateway/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Axway API Gateway</title>
+      <link>https://rjanssens.github.io/onboarding/standards/axway/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://rjanssens.github.io/onboarding/standards/axway/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,14 @@
+weight: 4
+id: "PRI-B-006"
+category: Business
+title: Keep it short & simple (KISS)
+statement: |
+  Focus on a simple solution that meets the requirements.
+rationale: |
+  Simplicity is a highly desirable quality in software applications. Making software more complicated than it needs to be lowers the overall quality of software.<br/>
+  The maintainability, testability, and supporting the business disruption are reduced when complexity increases.
+implications: |
+  - Avoid the “Rolls Royce” solution when you need a low-end car.<br/>
+  - Design the problem as easy to develop and easy to throw away; sometimes throwing away and re-creating is simpler and cheaper than maintaining it.<br/>
+  - Avoid abstraction and dependencies.<br/>
+  - Don’t oversimplify a design. Stop breaking things down when you reach a point that negatively affects the design of the application.

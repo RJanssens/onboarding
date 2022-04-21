@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stacks on Universal</title>
+    <link>https://rjanssens.github.io/onboarding/stacks/</link>
+    <description>Recent content in Stacks on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Apr 2022 11:09:59 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/onboarding/stacks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Update management</title>
+      <link>https://rjanssens.github.io/onboarding/stacks/versionmgt/</link>
+      <pubDate>Tue, 19 Apr 2022 11:09:59 +0200</pubDate>
+      
+      <guid>https://rjanssens.github.io/onboarding/stacks/versionmgt/</guid>
+      <description>Introduction It&amp;rsquo;s important to ensure that your application runs on a current environment. When you deliver an application, you potentially provide an operating system, runtime, frameworks and libraries.
+Over time, software vulnerabilities &amp;amp; bugs are discovered and fixed these products. Malicious actors can take advantage of published patches by writing code to target the corrected vulnerabilities. For this reason, it is important to patch early and patch often.
+Why not explicitly specify which versions to use?</description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>https://rjanssens.github.io/onboarding/stacks/overview/</link>
+      <pubDate>Tue, 19 Apr 2022 11:06:34 +0200</pubDate>
+      
+      <guid>https://rjanssens.github.io/onboarding/stacks/overview/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

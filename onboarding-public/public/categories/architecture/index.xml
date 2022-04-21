@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>architecture on Universal</title>
+    <link>https://rjanssens.github.io/onboarding/categories/architecture/</link>
+    <description>Recent content in architecture on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Apr 2022 11:04:24 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/onboarding/categories/architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview</title>
+      <link>https://rjanssens.github.io/onboarding/principles/overview/</link>
+      <pubDate>Tue, 19 Apr 2022 11:04:24 +0200</pubDate>
+      
+      <guid>https://rjanssens.github.io/onboarding/principles/overview/</guid>
+      <description>What are principles? Principles are general rules and guidelines, intended to be enduring and seldom amended, that inform and support the way in which an organization sets about fulfilling its mission.
+In their turn, principles may be just one element in a structured set of ideas that collectively define and guide the organization, from values through to actions and results.
+Depending on the organization, principles may be established within different domains and at different levels.</description>
+    </item>
+    
+  </channel>
+</rss>
