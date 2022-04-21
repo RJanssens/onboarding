@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Universal</title>
-    <link>https://rjanssens.github.io/onboarding/authors/</link>
+    <link>https://rjanssens.github.io/authors/</link>
     <description>Recent content in Authors on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rjanssens.github.io/onboarding/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://rjanssens.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

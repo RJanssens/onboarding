@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>web services on Universal</title>
-    <link>https://rjanssens.github.io/onboarding/tags/web-services/</link>
+    <link>https://rjanssens.github.io/tags/web-services/</link>
     <description>Recent content in web services on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2022 14:13:01 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/onboarding/tags/web-services/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2022 14:13:01 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/tags/web-services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>REST</title>
-      <link>https://rjanssens.github.io/onboarding/standards/rest/</link>
+      <link>https://rjanssens.github.io/standards/rest/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/onboarding/standards/rest/</guid>
+      <guid>https://rjanssens.github.io/standards/rest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SOAP</title>
-      <link>https://rjanssens.github.io/onboarding/standards/soap/</link>
+      <link>https://rjanssens.github.io/standards/soap/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/onboarding/standards/soap/</guid>
+      <guid>https://rjanssens.github.io/standards/soap/</guid>
       <description></description>
     </item>
     

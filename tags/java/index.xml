@@ -2,89 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>java on Universal</title>
-    <link>https://rjanssens.github.io/onboarding/tags/java/</link>
+    <link>https://rjanssens.github.io/tags/java/</link>
     <description>Recent content in java on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2022 14:13:01 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/onboarding/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2022 14:13:01 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java</title>
-      <link>https://rjanssens.github.io/onboarding/standards/java/</link>
+      <link>https://rjanssens.github.io/standards/java/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/onboarding/standards/java/</guid>
+      <guid>https://rjanssens.github.io/standards/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java Server Faces (JSF)</title>
-      <link>https://rjanssens.github.io/onboarding/standards/jsf/</link>
+      <link>https://rjanssens.github.io/standards/jsf/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/onboarding/standards/jsf/</guid>
+      <guid>https://rjanssens.github.io/standards/jsf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JUnit</title>
-      <link>https://rjanssens.github.io/onboarding/standards/junit/</link>
+      <link>https://rjanssens.github.io/standards/junit/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/onboarding/standards/junit/</guid>
+      <guid>https://rjanssens.github.io/standards/junit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Liberty (JEE)</title>
-      <link>https://rjanssens.github.io/onboarding/standards/liberty/</link>
+      <link>https://rjanssens.github.io/standards/liberty/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/onboarding/standards/liberty/</guid>
+      <guid>https://rjanssens.github.io/standards/liberty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maven</title>
-      <link>https://rjanssens.github.io/onboarding/standards/maven/</link>
+      <link>https://rjanssens.github.io/standards/maven/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/onboarding/standards/maven/</guid>
+      <guid>https://rjanssens.github.io/standards/maven/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Liberty</title>
-      <link>https://rjanssens.github.io/onboarding/standards/openliberty/</link>
+      <link>https://rjanssens.github.io/standards/openliberty/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/onboarding/standards/openliberty/</guid>
+      <guid>https://rjanssens.github.io/standards/openliberty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SLF4J/Logback</title>
-      <link>https://rjanssens.github.io/onboarding/standards/slf4j/</link>
+      <link>https://rjanssens.github.io/standards/slf4j/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/onboarding/standards/slf4j/</guid>
+      <guid>https://rjanssens.github.io/standards/slf4j/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spring Boot</title>
-      <link>https://rjanssens.github.io/onboarding/standards/spring-boot/</link>
+      <link>https://rjanssens.github.io/standards/spring-boot/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/onboarding/standards/spring-boot/</guid>
+      <guid>https://rjanssens.github.io/standards/spring-boot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WebSphere Application Server (JEE)</title>
-      <link>https://rjanssens.github.io/onboarding/standards/was/</link>
+      <link>https://rjanssens.github.io/standards/was/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/onboarding/standards/was/</guid>
+      <guid>https://rjanssens.github.io/standards/was/</guid>
       <description></description>
     </item>
     
