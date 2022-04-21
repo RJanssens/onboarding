@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>recipes on Universal</title>
-    <link>https://rjanssens.github.io/onboarding/categories/recipes/</link>
+    <link>https://rjanssens.github.io/categories/recipes/</link>
     <description>Recent content in recipes on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2022 12:48:06 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/onboarding/categories/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2022 12:48:06 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/categories/recipes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to create and publish new recipes</title>
-      <link>https://rjanssens.github.io/onboarding/recipes/recipe-001/</link>
+      <link>https://rjanssens.github.io/recipes/recipe-001/</link>
       <pubDate>Wed, 20 Apr 2022 12:48:06 +0200</pubDate>
       
-      <guid>https://rjanssens.github.io/onboarding/recipes/recipe-001/</guid>
+      <guid>https://rjanssens.github.io/recipes/recipe-001/</guid>
       <description>How to create and publish new recipes</description>
     </item>
     
