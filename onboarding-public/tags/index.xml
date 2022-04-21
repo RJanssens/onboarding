@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Universal</title>
+    <link>https://devcows.github.io/tags/</link>
+    <description>Recent content in Tags on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2022 14:13:01 +0200</lastBuildDate><atom:link href="https://devcows.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>angular</title>
+      <link>https://devcows.github.io/tags/angular/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/angular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>API Gateway</title>
+      <link>https://devcows.github.io/tags/api-gateway/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/api-gateway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>application server</title>
+      <link>https://devcows.github.io/tags/application-server/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/application-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>architecture</title>
+      <link>https://devcows.github.io/tags/architecture/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>artifacts</title>
+      <link>https://devcows.github.io/tags/artifacts/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/artifacts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>artifacts registry</title>
+      <link>https://devcows.github.io/tags/artifacts-registry/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/artifacts-registry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>automation</title>
+      <link>https://devcows.github.io/tags/automation/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Axway</title>
+      <link>https://devcows.github.io/tags/axway/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/axway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>azure</title>
+      <link>https://devcows.github.io/tags/azure/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>build management</title>
+      <link>https://devcows.github.io/tags/build-management/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/build-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>caching</title>
+      <link>https://devcows.github.io/tags/caching/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/caching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ci-cd</title>
+      <link>https://devcows.github.io/tags/ci-cd/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/ci-cd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code packaging</title>
+      <link>https://devcows.github.io/tags/code-packaging/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/code-packaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>configuration management</title>
+      <link>https://devcows.github.io/tags/configuration-management/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/configuration-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>container</title>
+      <link>https://devcows.github.io/tags/container/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/container/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>database automation</title>
+      <link>https://devcows.github.io/tags/database-automation/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/database-automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deployment</title>
+      <link>https://devcows.github.io/tags/deployment/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/deployment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>design system</title>
+      <link>https://devcows.github.io/tags/design-system/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/design-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E2E testing</title>
+      <link>https://devcows.github.io/tags/e2e-testing/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/e2e-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>framework</title>
+      <link>https://devcows.github.io/tags/framework/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>front-end</title>
+      <link>https://devcows.github.io/tags/front-end/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/front-end/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>front-end framework</title>
+      <link>https://devcows.github.io/tags/front-end-framework/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/front-end-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IDE</title>
+      <link>https://devcows.github.io/tags/ide/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/ide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>issue tracking</title>
+      <link>https://devcows.github.io/tags/issue-tracking/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/issue-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java</title>
+      <link>https://devcows.github.io/tags/java/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JEE</title>
+      <link>https://devcows.github.io/tags/jee/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/jee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubernetes</title>
+      <link>https://devcows.github.io/tags/kubernetes/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language</title>
+      <link>https://devcows.github.io/tags/language/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>logging</title>
+      <link>https://devcows.github.io/tags/logging/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/logging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>message broker</title>
+      <link>https://devcows.github.io/tags/message-broker/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/message-broker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>middleware</title>
+      <link>https://devcows.github.io/tags/middleware/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/middleware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mocking</title>
+      <link>https://devcows.github.io/tags/mocking/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/mocking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>monitoring</title>
+      <link>https://devcows.github.io/tags/monitoring/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenShift</title>
+      <link>https://devcows.github.io/tags/openshift/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/openshift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>package management</title>
+      <link>https://devcows.github.io/tags/package-management/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/package-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RDBMS</title>
+      <link>https://devcows.github.io/tags/rdbms/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/rdbms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SCA</title>
+      <link>https://devcows.github.io/tags/sca/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/sca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scheduling</title>
+      <link>https://devcows.github.io/tags/scheduling/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/scheduling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://devcows.github.io/tags/security/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>service mesh</title>
+      <link>https://devcows.github.io/tags/service-mesh/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/service-mesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spring</title>
+      <link>https://devcows.github.io/tags/spring/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>standard</title>
+      <link>https://devcows.github.io/tags/standard/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/standard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>testing</title>
+      <link>https://devcows.github.io/tags/testing/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>toolchain</title>
+      <link>https://devcows.github.io/tags/toolchain/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/toolchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unit testing</title>
+      <link>https://devcows.github.io/tags/unit-testing/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/unit-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web server</title>
+      <link>https://devcows.github.io/tags/web-server/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/web-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web services</title>
+      <link>https://devcows.github.io/tags/web-services/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/web-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gitlab</title>
+      <link>https://devcows.github.io/tags/gitlab/</link>
+      <pubDate>Wed, 20 Apr 2022 12:48:06 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/gitlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://devcows.github.io/tags/hugo/</link>
+      <pubDate>Wed, 20 Apr 2022 12:48:06 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recipe</title>
+      <link>https://devcows.github.io/tags/recipe/</link>
+      <pubDate>Wed, 20 Apr 2022 12:48:06 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/recipe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>principles</title>
+      <link>https://devcows.github.io/tags/principles/</link>
+      <pubDate>Tue, 19 Apr 2022 11:04:24 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/tags/principles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>authn/authz</title>
+      <link>https://devcows.github.io/tags/authn/authz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devcows.github.io/tags/authn/authz/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

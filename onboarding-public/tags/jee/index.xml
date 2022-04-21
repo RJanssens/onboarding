@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JEE on Universal</title>
+    <link>https://devcows.github.io/tags/jee/</link>
+    <description>Recent content in JEE on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2022 14:13:01 +0200</lastBuildDate><atom:link href="https://devcows.github.io/tags/jee/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DatCFG</title>
+      <link>https://devcows.github.io/standards/datcfg/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/datcfg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DatENQ-Batch</title>
+      <link>https://devcows.github.io/standards/datenq/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/datenq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liberty (JEE)</title>
+      <link>https://devcows.github.io/standards/liberty/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/liberty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Liberty</title>
+      <link>https://devcows.github.io/standards/openliberty/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/openliberty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WebSphere Application Server (JEE)</title>
+      <link>https://devcows.github.io/standards/was/</link>
+      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/standards/was/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
