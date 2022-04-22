@@ -6,7 +6,46 @@
     <description>Recent content on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2022 16:24:04 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/onboarding/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Apr 2022 13:47:45 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/onboarding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Samples</title>
+      <link>https://rjanssens.github.io/onboarding/code/samples/</link>
+      <pubDate>Fri, 22 Apr 2022 13:47:45 +0200</pubDate>
+      
+      <guid>https://rjanssens.github.io/onboarding/code/samples/</guid>
+      <description>Introduction Example projects have been created in GitLab which you can clone to get a concrete implementation of the best practices described here.
+You are welcome to use the sample projects as starting point for your own code.
+Angular The Angular showcase is available in GitLab here
+Java The Java showcase is available in GitLab here</description>
+    </item>
+    
+    <item>
+      <title>Quality</title>
+      <link>https://rjanssens.github.io/onboarding/code/quality/</link>
+      <pubDate>Fri, 22 Apr 2022 13:47:40 +0200</pubDate>
+      
+      <guid>https://rjanssens.github.io/onboarding/code/quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semver</title>
+      <link>https://rjanssens.github.io/onboarding/code/semver/</link>
+      <pubDate>Fri, 22 Apr 2022 13:47:36 +0200</pubDate>
+      
+      <guid>https://rjanssens.github.io/onboarding/code/semver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Standards</title>
+      <link>https://rjanssens.github.io/onboarding/code/standards/</link>
+      <pubDate>Fri, 22 Apr 2022 13:47:24 +0200</pubDate>
+      
+      <guid>https://rjanssens.github.io/onboarding/code/standards/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Architect for build, test, deploy, and operate</title>
       <link>https://rjanssens.github.io/onboarding/principles/pri-t-005/</link>
@@ -265,7 +304,9 @@
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
       
       <guid>https://rjanssens.github.io/onboarding/standards/db2/</guid>
-      <description></description>
+      <description>Db2 is the RDBMS of choice of FPS Economy. This is a draft page to test the template engine.
+Requesting a new schema todo
+Related links    Link Description     IBM Db2 Vendor homepage    </description>
     </item>
     
     <item>

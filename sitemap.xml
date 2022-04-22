@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rjanssens.github.io/onboarding/code/</loc>
+    <lastmod>2022-04-22T13:47:45+02:00</lastmod>
+  </url><url>
+    <loc>https://rjanssens.github.io/onboarding/code/samples/</loc>
+    <lastmod>2022-04-22T13:47:45+02:00</lastmod>
+  </url><url>
+    <loc>https://rjanssens.github.io/onboarding/</loc>
+    <lastmod>2022-04-22T13:47:45+02:00</lastmod>
+  </url><url>
+    <loc>https://rjanssens.github.io/onboarding/code/quality/</loc>
+    <lastmod>2022-04-22T13:47:40+02:00</lastmod>
+  </url><url>
+    <loc>https://rjanssens.github.io/onboarding/code/semver/</loc>
+    <lastmod>2022-04-22T13:47:36+02:00</lastmod>
+  </url><url>
+    <loc>https://rjanssens.github.io/onboarding/code/standards/</loc>
+    <lastmod>2022-04-22T13:47:24+02:00</lastmod>
+  </url><url>
     <loc>https://rjanssens.github.io/onboarding/principles/pri-t-005/</loc>
     <lastmod>2022-04-20T16:24:04+02:00</lastmod>
   </url><url>
@@ -12,9 +30,6 @@
     <lastmod>2022-04-20T16:24:04+02:00</lastmod>
   </url><url>
     <loc>https://rjanssens.github.io/onboarding/principles/</loc>
-    <lastmod>2022-04-20T16:24:04+02:00</lastmod>
-  </url><url>
-    <loc>https://rjanssens.github.io/onboarding/</loc>
     <lastmod>2022-04-20T16:24:04+02:00</lastmod>
   </url><url>
     <loc>https://rjanssens.github.io/onboarding/principles/pri-t-004/</loc>
@@ -421,9 +436,6 @@
   </url><url>
     <loc>https://rjanssens.github.io/onboarding/tags/signature/</loc>
     <lastmod>2022-04-20T12:48:06+02:00</lastmod>
-  </url><url>
-    <loc>https://rjanssens.github.io/onboarding/code/</loc>
-    <lastmod>2022-04-20T12:18:21+02:00</lastmod>
   </url><url>
     <loc>https://rjanssens.github.io/onboarding/code/recipes/</loc>
     <lastmod>2022-04-20T12:18:21+02:00</lastmod>
