@@ -6,7 +6,46 @@
     <description>Recent content in Code on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2022 12:18:21 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/onboarding/code/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Apr 2022 13:47:45 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/onboarding/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Samples</title>
+      <link>https://rjanssens.github.io/onboarding/code/samples/</link>
+      <pubDate>Fri, 22 Apr 2022 13:47:45 +0200</pubDate>
+      
+      <guid>https://rjanssens.github.io/onboarding/code/samples/</guid>
+      <description>Introduction Example projects have been created in GitLab which you can clone to get a concrete implementation of the best practices described here.
+You are welcome to use the sample projects as starting point for your own code.
+Angular The Angular showcase is available in GitLab here
+Java The Java showcase is available in GitLab here</description>
+    </item>
+    
+    <item>
+      <title>Quality</title>
+      <link>https://rjanssens.github.io/onboarding/code/quality/</link>
+      <pubDate>Fri, 22 Apr 2022 13:47:40 +0200</pubDate>
+      
+      <guid>https://rjanssens.github.io/onboarding/code/quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semver</title>
+      <link>https://rjanssens.github.io/onboarding/code/semver/</link>
+      <pubDate>Fri, 22 Apr 2022 13:47:36 +0200</pubDate>
+      
+      <guid>https://rjanssens.github.io/onboarding/code/semver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Standards</title>
+      <link>https://rjanssens.github.io/onboarding/code/standards/</link>
+      <pubDate>Fri, 22 Apr 2022 13:47:24 +0200</pubDate>
+      
+      <guid>https://rjanssens.github.io/onboarding/code/standards/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Recipes</title>
       <link>https://rjanssens.github.io/onboarding/code/recipes/</link>

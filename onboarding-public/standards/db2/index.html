@@ -16,7 +16,7 @@
 <meta name="keywords" content="onboarding, architecture, developers, standard, middleware, RDBMS">
 
 
-<meta name="description" content="Site template made by Devcows using Hugo">
+<meta name="description" content="Developer onboarding site">
 
 <meta name="generator" content="Hugo 0.97.0" />
 
@@ -36,7 +36,7 @@
 
 
 
-<link href="/onboarding/css/custom.css?1650621867" rel="stylesheet">
+<link href="/onboarding/css/custom.css?1650630186" rel="stylesheet">
 
 
 
@@ -69,7 +69,7 @@
 <meta property="og:title" content="DB2">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://rjanssens.github.io/onboarding/standards/db2/" />
-<meta property="og:description" content="Site template made by Devcows using Hugo">
+<meta property="og:description" content="Developer onboarding site">
 <meta property="og:image" content="https://rjanssens.github.io/onboarding/img/sharing-default.png">
 <meta property="og:image:type" content="image/png">
 
@@ -89,7 +89,7 @@
 
 <meta name="twitter:image" content="https://rjanssens.github.io/onboarding/img/sharing-default.png">
 
-<meta name="twitter:description" content="Site template made by Devcows using Hugo">
+<meta name="twitter:description" content="Developer onboarding site">
 
 
     
@@ -353,6 +353,14 @@
                             
                             <li><a href="/onboarding/code/recipes">Recipes</a></li>
                             
+                            <li><a href="/onboarding/code/samples">Code Samples</a></li>
+                            
+                            <li><a href="/onboarding/code/quality">Quality Criteria</a></li>
+                            
+                            <li><a href="/onboarding/code/semver">Semantic versioning</a></li>
+                            
+                            <li><a href="/onboarding/code/standards">Coding standards</a></li>
+                            
                         </ul>
                         
                     </li>
@@ -393,78 +401,68 @@
 
         <div id="content">
             <div class="container">
-
                 <div class="row">
-
                     
+                    <div class="col-md-9" id="blog-listing-medium">
 
-                    <div class="col-md-9" id="blog-post">
+						<table class="styled-table">
+							<thead>
+								<th>Attribute</th>
+								<th>Value</th>
+							<tbody>
+							
+							  
+							  <tr>
+								  <td><b>Standard</b></td>
+								  <td>DB2</td>
+							  </tr>						
 
-                        
-                          <p class="text-muted text-uppercase mb-small text-right">
-                            
-                            
-                            
-                              
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                              April 20, 2022
-                            
-                          </p>
-                        
+							  <tr>
+								  <td><b>Status</b></td>
+								  <td>Strategic</td>
+							  </tr>						
 
-                        <div id="post-content">
-                          
-                        </div>
-                        
-                        
-                        <div id="comments">
-                            <div id="disqus_thread"></div>
-<script type="application/javascript">
-    window.disqus_config = function () {
-    
-    
-    
-    };
-    (function() {
-        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
-            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
-            return;
-        }
-        var d = document, s = d.createElement('script'); s.async = true;
-        s.src = '//' + "eco-onboarding" + '.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-                        </div>
-                        
+							  
+							  <tr>
+								  <td><b>Vendor</b></td>
+								  <td>IBM</td>
+							  </tr>		
+							  
+							  <tr>
+								  <td><b>Domain</b></td>
+								  <td>RDBMS (Middleware)</td>
+							  </tr>
+							  
+							  <tr>
+								  <td><b>Owner</b></td>
+								  <td>TBD</td>
+							  </tr>						
+							  							  				
+							</tbody>
+						</table>	
+						
+						<h2>Details</h2>
+						<p>Db2 is the RDBMS of choice of FPS Economy. This is a draft page to test the template engine.</p>
+<h2 id="requesting-a-new-schema">Requesting a new schema</h2>
+<p>todo</p>
+<h2 id="related-links">Related links</h2>
+<table>
+<thead>
+<tr>
+<th>Link</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://www.ibm.com/analytics/db2">IBM Db2</a></td>
+<td>Vendor homepage</td>
+</tr>
+</tbody>
+</table>
 
+						
+						<a href="javascript:history.back()"><img alt="Principles overview" src="/onboarding/img/back.png"></a>
                     </div>
                     
 
@@ -485,7 +483,12 @@
 
     <div class="panel-body">
       <div class="row">
-			<nav id="TableOfContents"></nav>
+			<nav id="TableOfContents">
+  <ul>
+    <li><a href="#requesting-a-new-schema">Requesting a new schema</a></li>
+    <li><a href="#related-links">Related links</a></li>
+  </ul>
+</nav>
       </div>
     </div>
 </div>
@@ -797,7 +800,6 @@
 
                 </div>
                 
-
             </div>
             
         </div>
@@ -810,7 +812,7 @@
         <div class="col-md-4 col-sm-6">
             <h4>About us</h4>
 
-            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+            <p>We welcome your change suggestions and feedback. Contact Raf Janssens to discuss!</p>
 
             <hr class="hidden-md hidden-lg hidden-sm">
 
@@ -877,17 +879,16 @@
 
           <h4>Contact</h4>
 
-            <p class="text-uppercase"><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
+            <p class="text-uppercase"><strong>FPS Economy</strong>
+        <br>North Gate
+        <brKoning Albert II-laan 16
+        <br>1000 Brussels
         <br>
-        <strong>Great Britain</strong>
+        <strong>Belgium</strong>
       </p>
       
 
-            <a href="/contact" class="btn btn-small btn-template-main">Go to contact page</a>
+            <a href="/onboarding/contact" class="btn btn-small btn-template-main">Go to contact page</a>
 
             <hr class="hidden-md hidden-lg hidden-sm">
 
@@ -909,7 +910,7 @@
     <div class="container">
         <div class="col-md-12">
             
-            <p class="pull-left">Copyright (c) 2015 - 2016, YourCompany; all rights reserved.</p>
+            <p class="pull-left">Copyright (c) 2022, FPS Economy; all rights reserved.</p>
             
             <p class="pull-right">
               Template by <a href="https://bootstrapious.com/p/universal-business-e-commerce-template">Bootstrapious</a>.
