@@ -176,9 +176,6 @@
     <loc>https://rjanssens.github.io/onboarding/tags/framework/</loc>
     <lastmod>2022-04-20T14:13:01+02:00</lastmod>
   </url><url>
-    <loc>https://rjanssens.github.io/onboarding/tags/front-end/</loc>
-    <lastmod>2022-04-20T14:13:01+02:00</lastmod>
-  </url><url>
     <loc>https://rjanssens.github.io/onboarding/tags/front-end-framework/</loc>
     <lastmod>2022-04-20T14:13:01+02:00</lastmod>
   </url><url>
@@ -392,6 +389,15 @@
     <loc>https://rjanssens.github.io/onboarding/standards/was/</loc>
     <lastmod>2022-04-20T14:13:01+02:00</lastmod>
   </url><url>
+    <loc>https://rjanssens.github.io/onboarding/categories/building-blocks/</loc>
+    <lastmod>2022-04-20T12:48:06+02:00</lastmod>
+  </url><url>
+    <loc>https://rjanssens.github.io/onboarding/buildingblocks/</loc>
+    <lastmod>2022-04-20T12:48:06+02:00</lastmod>
+  </url><url>
+    <loc>https://rjanssens.github.io/onboarding/buildingblocks/buildingblock-001/</loc>
+    <lastmod>2022-04-20T12:48:06+02:00</lastmod>
+  </url><url>
     <loc>https://rjanssens.github.io/onboarding/tags/gitlab/</loc>
     <lastmod>2022-04-20T12:48:06+02:00</lastmod>
   </url><url>
@@ -401,6 +407,9 @@
     <loc>https://rjanssens.github.io/onboarding/tags/hugo/</loc>
     <lastmod>2022-04-20T12:48:06+02:00</lastmod>
   </url><url>
+    <loc>https://rjanssens.github.io/onboarding/tags/pdf/</loc>
+    <lastmod>2022-04-20T12:48:06+02:00</lastmod>
+  </url><url>
     <loc>https://rjanssens.github.io/onboarding/tags/recipe/</loc>
     <lastmod>2022-04-20T12:48:06+02:00</lastmod>
   </url><url>
@@ -408,6 +417,9 @@
     <lastmod>2022-04-20T12:48:06+02:00</lastmod>
   </url><url>
     <loc>https://rjanssens.github.io/onboarding/recipes/</loc>
+    <lastmod>2022-04-20T12:48:06+02:00</lastmod>
+  </url><url>
+    <loc>https://rjanssens.github.io/onboarding/tags/signature/</loc>
     <lastmod>2022-04-20T12:48:06+02:00</lastmod>
   </url><url>
     <loc>https://rjanssens.github.io/onboarding/code/</loc>
@@ -452,9 +464,6 @@
     <loc>https://rjanssens.github.io/onboarding/code/overview/</loc>
     <lastmod>2022-04-19T11:10:59+02:00</lastmod>
   </url><url>
-    <loc>https://rjanssens.github.io/onboarding/buildingblocks/</loc>
-    <lastmod>2022-04-19T11:10:36+02:00</lastmod>
-  </url><url>
     <loc>https://rjanssens.github.io/onboarding/buildingblocks/overview/</loc>
     <lastmod>2022-04-19T11:10:36+02:00</lastmod>
   </url><url>
@@ -466,9 +475,6 @@
   </url><url>
     <loc>https://rjanssens.github.io/onboarding/stacks/overview/</loc>
     <lastmod>2022-04-19T11:06:34+02:00</lastmod>
-  </url><url>
-    <loc>https://rjanssens.github.io/onboarding/categories/architecture/</loc>
-    <lastmod>2022-04-19T11:04:24+02:00</lastmod>
   </url><url>
     <loc>https://rjanssens.github.io/onboarding/principles/overview/</loc>
     <lastmod>2022-04-19T11:04:24+02:00</lastmod>
