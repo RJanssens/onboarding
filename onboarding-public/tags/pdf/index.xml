@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pdf on Universal</title>
+    <link>https://rjanssens.github.io/onboarding/tags/pdf/</link>
+    <description>Recent content in pdf on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2022 12:48:06 +0200</lastBuildDate><atom:link href="https://rjanssens.github.io/onboarding/tags/pdf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Electronic Signature Services</title>
+      <link>https://rjanssens.github.io/onboarding/buildingblocks/buildingblock-001/</link>
+      <pubDate>Wed, 20 Apr 2022 12:48:06 +0200</pubDate>
+      
+      <guid>https://rjanssens.github.io/onboarding/buildingblocks/buildingblock-001/</guid>
+      <description>This building block provides a qualified electronic signature service of PDF files with the following characteristics:&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;eIDAS-compliant using the &lt;!-- raw HTML omitted --&gt;PAdES&lt;!-- raw HTML omitted --&gt; standard.&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Invisible signatures (can be consulted in PDF metadata)&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Suitable for long-term archival including a trusted timestamp (via the LTA profile)&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

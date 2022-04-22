@@ -188,15 +188,6 @@
     </item>
     
     <item>
-      <title>front-end</title>
-      <link>https://rjanssens.github.io/onboarding/tags/front-end/</link>
-      <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
-      
-      <guid>https://rjanssens.github.io/onboarding/tags/front-end/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>front-end framework</title>
       <link>https://rjanssens.github.io/onboarding/tags/front-end-framework/</link>
       <pubDate>Wed, 20 Apr 2022 14:13:01 +0200</pubDate>
@@ -449,11 +440,29 @@
     </item>
     
     <item>
+      <title>pdf</title>
+      <link>https://rjanssens.github.io/onboarding/tags/pdf/</link>
+      <pubDate>Wed, 20 Apr 2022 12:48:06 +0200</pubDate>
+      
+      <guid>https://rjanssens.github.io/onboarding/tags/pdf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>recipe</title>
       <link>https://rjanssens.github.io/onboarding/tags/recipe/</link>
       <pubDate>Wed, 20 Apr 2022 12:48:06 +0200</pubDate>
       
       <guid>https://rjanssens.github.io/onboarding/tags/recipe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>signature</title>
+      <link>https://rjanssens.github.io/onboarding/tags/signature/</link>
+      <pubDate>Wed, 20 Apr 2022 12:48:06 +0200</pubDate>
+      
+      <guid>https://rjanssens.github.io/onboarding/tags/signature/</guid>
       <description></description>
     </item>
     

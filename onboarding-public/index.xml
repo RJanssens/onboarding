@@ -692,6 +692,15 @@
     </item>
     
     <item>
+      <title>Electronic Signature Services</title>
+      <link>https://rjanssens.github.io/onboarding/buildingblocks/buildingblock-001/</link>
+      <pubDate>Wed, 20 Apr 2022 12:48:06 +0200</pubDate>
+      
+      <guid>https://rjanssens.github.io/onboarding/buildingblocks/buildingblock-001/</guid>
+      <description>This building block provides a qualified electronic signature service of PDF files with the following characteristics:&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;eIDAS-compliant using the &lt;!-- raw HTML omitted --&gt;PAdES&lt;!-- raw HTML omitted --&gt; standard.&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Invisible signatures (can be consulted in PDF metadata)&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Suitable for long-term archival including a trusted timestamp (via the LTA profile)&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+    <item>
       <title>How to create and publish new recipes</title>
       <link>https://rjanssens.github.io/onboarding/recipes/recipe-001/</link>
       <pubDate>Wed, 20 Apr 2022 12:48:06 +0200</pubDate>

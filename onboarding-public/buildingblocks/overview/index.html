@@ -36,7 +36,7 @@
 
 
 
-<link href="/onboarding/css/custom.css?1650535290" rel="stylesheet">
+<link href="/onboarding/css/custom.css?1650612652" rel="stylesheet">
 
 
 
@@ -93,6 +93,51 @@
 
 
     
+	<style type="text/css">
+	
+		.styled-table {
+			border-collapse: collapse;
+			margin: 25px 0;
+			font-size: 0.9em;
+			font-family: sans-serif;
+			min-width: 90%;
+			box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+		}
+		.styled-table thead tr {
+			background-color: #009879;
+			color: #ffffff;
+			text-align: left;
+		}
+		.styled-table th,
+		.styled-table td {
+			padding: 12px 15px;
+		}
+
+		.styled-table th:first-of-type {
+		  border-top-left-radius: 10px;
+		}
+
+
+		.styled-table th:last-of-type {
+		  border-top-right-radius: 10px;
+		}
+
+		.styled-table tbody tr {
+			border-bottom: 1px solid #dddddd;
+		}
+
+		.styled-table tbody tr:nth-of-type(even) {
+			background-color: #f3f3f3;
+		}
+
+		.styled-table tbody tr:last-of-type {
+			border-bottom: 2px solid #009879;
+		}
+		.styled-table tbody tr.active-row {
+			font-weight: bold;
+			color: #009879;
+		}
+	</style>
   </head>
 
   <body>
@@ -393,78 +438,35 @@
 
         <div id="content">
             <div class="container">
-
                 <div class="row">
-
                     
+                    <div class="col-md-9" id="blog-listing-medium">
 
-                    <div class="col-md-9" id="blog-post">
-
-                        
-                          <p class="text-muted text-uppercase mb-small text-right">
-                            
-                            
-                            
-                              
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                              April 19, 2022
-                            
-                          </p>
-                        
-
-                        <div id="post-content">
-                          
-                        </div>
-                        
-                        
-                        <div id="comments">
-                            <div id="disqus_thread"></div>
-<script type="application/javascript">
-    window.disqus_config = function () {
-    
-    
-    
-    };
-    (function() {
-        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
-            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
-            return;
-        }
-        var d = document, s = d.createElement('script'); s.async = true;
-        s.src = '//' + "eco-onboarding" + '.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-                        </div>
-                        
-
+						<h1>Building Blocks</h1>	
+						<h2>Overview</h2>
+						<table class="styled-table">
+							<thead>
+								<tr>
+									<th>ID</th>
+									<th>Title</th>
+									<th>Date created</th>
+								</tr>
+							</thead>
+							<tbody>
+							 
+							
+							  <tr>
+								  <td><a href="/onboarding/buildingblocks/buildingblock-001/">BB-001</a></td>
+								  <td>Electronic Signature Services</td>
+								  <td>April 20, 2022</td>
+							  </tr>
+							  
+							 
+							  
+							
+							</tbody>
+						</table>
+						
                     </div>
                     
 
@@ -529,7 +531,7 @@
             
             
             <li>
-                <a href="/onboarding/categories/architecture">ARCHITECTURE (1)</a>
+                <a href="/onboarding/categories/building-blocks">BUILDING-BLOCKS (1)</a>
             </li>
             
             <li>
@@ -651,10 +653,6 @@
             </li>
             
             <li >
-                <a href="/onboarding/tags/front-end"><i class="fas fa-tags"></i> front-end</a>
-            </li>
-            
-            <li >
                 <a href="/onboarding/tags/front-end-framework"><i class="fas fa-tags"></i> front-end-framework</a>
             </li>
             
@@ -719,6 +717,10 @@
             </li>
             
             <li >
+                <a href="/onboarding/tags/pdf"><i class="fas fa-tags"></i> pdf</a>
+            </li>
+            
+            <li >
                 <a href="/onboarding/tags/principles"><i class="fas fa-tags"></i> principles</a>
             </li>
             
@@ -744,6 +746,10 @@
             
             <li >
                 <a href="/onboarding/tags/service-mesh"><i class="fas fa-tags"></i> service-mesh</a>
+            </li>
+            
+            <li >
+                <a href="/onboarding/tags/signature"><i class="fas fa-tags"></i> signature</a>
             </li>
             
             <li >
@@ -793,7 +799,6 @@
 
                 </div>
                 
-
             </div>
             
         </div>
