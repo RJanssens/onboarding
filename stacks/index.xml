@@ -24,7 +24,7 @@ Why not explicitly specify which versions to use?</description>
       <pubDate>Tue, 19 Apr 2022 11:06:34 +0200</pubDate>
       
       <guid>https://rjanssens.github.io/onboarding/stacks/overview/</guid>
-      <description></description>
+      <description>   Category Track 1 Track 2     Database     RDBMS DB2 DB2   Persistence     DAL Provider Hibernate EclipseLink   Back-end Technologies     Framework Spring Boot JEE/Microprofile   Web services REST (SOAP) REST (SOAP)   Security     Internal Authentication Active Directory (LDAP) Active Directory (LDAP)   External Authentication FAS (OIDC/SAML) or Application-Specific FAS (OIDC/SAML) or Application-Specific   Front-end Technologies     Framework Angular Angular (JSF)   Bundling Separate front-end &amp;amp; back-end Separate (or bundled) front-end &amp;amp; back-end    </description>
     </item>
     
   </channel>
